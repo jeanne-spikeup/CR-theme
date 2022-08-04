@@ -1,5 +1,4 @@
 <?php
-//successfull test
 //** ADD SIDEBAR **//
 
 register_sidebar(array(
