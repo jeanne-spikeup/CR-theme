@@ -1,6 +1,6 @@
 <?php
 
-//** ADD SIDEBAR **//
+//** ADD SIDEBAR TEST 1 **//
 
 register_sidebar(array(
     'id' => 'footer-column-1',
